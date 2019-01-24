@@ -1,0 +1,151 @@
+
+body {
+  overflow: visible !important;
+  background:  #2C5364;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, rgb(91, 164, 195), #203A43, rgb(49, 95, 115));  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, rgb(91, 164, 195), #203A43, rgb(49, 95, 115)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.header-color {
+  background:  #2C5364;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, rgb(91, 164, 195), #203A43, rgb(49, 95, 115));  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, rgb(91, 164, 195), #203A43, rgb(49, 95, 115)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.main-page {
+  background:  #2C5364;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, rgb(91, 164, 195), #203A43, rgb(49, 95, 115));  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, rgb(91, 164, 195), #203A43, rgb(49, 95, 115)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  position: fixed;
+  width: 100%;
+  height: 100%;
+}
+.landing-grid {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+}
+.material-icons {
+  color: white;
+}
+/********************* MDL DRAWER ****************************************/
+
+.mdl-layout__drawer.is-visible {
+  background: #0F2027;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, rgb(91, 164, 195), #203A43, rgb(49, 95, 115));  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2C5364 50%, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.mdl-layout-title {
+  color: white;
+}
+.mdl-layout__drawer.is-visible {
+  border-right: 1px solid #203A43;
+}
+.mdl-layout__drawer.is-visible .mdl-navigation__link{
+  color: white !important;
+  transition: .2s;
+  border-radius: 0;
+}
+.mdl-layout__drawer.is-visible .mdl-navigation__link:hover {
+  color: black !important;
+}
+.mdl-navigation__link{
+  color: white !important;
+  transition: .2s;
+  border-radius: 0 0 20px 20px;
+}
+.mdl-navigation__link:hover{
+  color: black !important;
+  background: rgba(255,255,255,0.7);
+  
+}
+
+
+
+
+/*************************************************************/
+.avatar-img {
+  position: relative;
+  height: 250px;
+  padding-top: 5em;
+  left: 50%;
+  margin: auto;
+  transform: translate(-50%, 0);
+}
+.banner-text {
+  background-color: black;
+  opacity: 0.8;
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+  text-align: center;
+}
+.banner-text h1 {
+  font-size: 90px;
+  font-weight: bold;
+  color: white;
+}
+.banner-text hr {
+  border-top: 5px dotted white;
+  width: 50%;
+  margin: auto;
+}
+.banner-text p {
+  color: white;
+  font-size: 20px;
+  padding: 1em;
+}
+h1 {
+  text-align: center;
+  color: rgba(0,0,0,0.2);
+  font-size: 5rem !important;
+}
+
+/************************************ CONTACT PAGE CSS ******************/
+.contact-body {
+  margin: auto;
+  position: fixed;
+  width: 100%;
+  height: auto;
+  justify-content: center;
+  padding-top: 2em;
+  //border: 1px solid white;
+}
+.contact-grid {
+  position: relative;
+  top: 50%;
+  text-align: center;
+  justify-content: center;
+  width: 95%;
+  min-width: 690px;;
+  //border: 1px solid white;
+  //background: rgba(255,255,255,0.1);
+  border-radius: 20px;
+  color: white;
+  margin-bottom: 20px;
+}
+.contact-grid h2 {
+  font-family: 'Anton', sans-serif;
+}
+.contact-grid p {
+  font-family: 'Oxygen', sans-serif;
+  font-weight: bold;
+}
+.contact-grid hr {
+  border-top: 5px dotted white;
+  width: 50%;
+  margin: auto;
+}
