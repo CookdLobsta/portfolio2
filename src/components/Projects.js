@@ -14,7 +14,6 @@ class Projects extends Component {
                 <CardActions border>
 	              	<Button colored>
 										<a href="https://github.com/HansRomang/SlackOffs">GITHUB</a>
-										GITHUB
 									</Button>
                   <Button colored>Live DEMO</Button>
                 </CardActions>
@@ -30,7 +29,6 @@ class Projects extends Component {
 							<CardActions border>
 								<Button colored>
 									<a href="https://github.com/CookdLobsta/project-2">GITHUB</a>
-									GITHUB
 								</Button>
 								<Button colored>Live DEMO</Button>
 							</CardActions>
@@ -45,7 +43,6 @@ class Projects extends Component {
 							<CardActions border>
 								<Button colored>
 									<a href="https://github.com/HansRomang/mm2">GITHUB</a>
-									GITHUB
 								</Button>
 								<Button colored>Live DEMO</Button>
 							</CardActions>
@@ -65,7 +62,6 @@ class Projects extends Component {
                 <CardActions border>
 	              	<Button colored>
 										<a href="https://github.com/CookdLobsta/getYaNewsHere">GITHUB</a>
-										GITHUB
 									</Button>
                   <Button colored>Live DEMO</Button>
                 </CardActions>
@@ -81,7 +77,6 @@ class Projects extends Component {
 							<CardActions border>
 								<Button colored>
 									<a href="https://github.com/CookdLobsta/Train-Scheduler">GITHUB</a>
-									GITHUB
 								</Button>
 								<Button colored>Live DEMO</Button>
 							</CardActions>
@@ -96,7 +91,6 @@ class Projects extends Component {
 							<CardActions border>
 								<Button colored>
 									<a href="https://github.com/CookdLobsta/liri-node-app">GITHUB</a>
-									GITHUB
 								</Button>
 								<Button colored>Live DEMO</Button>
 							</CardActions>
@@ -115,7 +109,6 @@ class Projects extends Component {
                 <CardActions border>
 	              	<Button colored>
 										<a href="https://github.com/CookdLobsta/trivia-game">GITHUB</a>
-										GITHUB
 									</Button>
                   <Button colored>Live DEMO</Button>
                 </CardActions>
@@ -131,7 +124,6 @@ class Projects extends Component {
 							<CardActions border>
 								<Button colored>
 									<a href="https://github.com/CookdLobsta/hangman">GITHUB</a>
-									GITHUB
 								</Button>
 								<Button colored>Live DEMO</Button>
 							</CardActions>
@@ -146,7 +138,6 @@ class Projects extends Component {
 							<CardActions border>
 								<Button colored>
 									<a href="https://github.com/CookdLobsta/Crystal-Collector">GITHUB</a>
-									GITHUB
 								</Button>
 								<Button colored>Live DEMO</Button>
 							</CardActions>
@@ -165,7 +156,6 @@ class Projects extends Component {
                 <CardActions border>
 	              	<Button colored>
 										<a href="https://github.com/CookdLobsta/Giphy">GITHUB</a>
-										GITHUB
 									</Button>
                   <Button colored>Live DEMO</Button>
                 </CardActions>
@@ -181,7 +171,6 @@ class Projects extends Component {
 							<CardActions border>
 								<Button colored>
 									<a href="https://github.com/CookdLobsta/project-2">GITHUB</a>
-									GITHUB
 								</Button>
 								<Button colored>Live DEMO</Button>
 							</CardActions>
@@ -196,7 +185,6 @@ class Projects extends Component {
 							<CardActions border>
 								<Button colored>
 									<a href="https://github.com/HansRomang/mm2">GITHUB</a>
-									GITHUB
 								</Button>
 								<Button colored>Live DEMO</Button>
 							</CardActions>
