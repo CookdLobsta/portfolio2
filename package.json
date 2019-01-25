@@ -2,7 +2,7 @@
   "name": "portfoliosite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://frdvorak.github.io/react-portfolio/",
+  "homepage": "http://cookdlobsta.github.io/portfolio2/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.4",
     "@fortawesome/free-solid-svg-icons": "^5.3.1",
@@ -22,6 +22,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "gh-pages": "^2.0.0"
+    "gh-pages": "^2.0.1"
   }
 }
